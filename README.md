@@ -1,13 +1,14 @@
 # Hypernova
-## Installation
-GitHub doesn't allow custom URL schemes in Markdown, you need to manually copy and paste each URL in your browser address bar. 
+## Design System
+[Add to Sketch](sketch://add-library?url=https://dl.dropboxusercontent.com/s/qc5e0qlead1imey/hypernova_ds.rss)
 
-### Design System
-`sketch://add-library?url=https://raw.githubusercontent.com/behdaad/hypernova/master/designsystem.rss`
+[Manual download](https://dl.dropboxusercontent.com/s/6za8f0qzo17cbvd/hypernova_ds.sketch)
 
-### Icon Pack
-#### Sketch
-`sketch://add-library?url=https://raw.githubusercontent.com/behdaad/hypernova/master/iconpack.rss`
+## Icon Pack
+### Sketch
+[Add to Sketch](sketch://add-library?url=https://dl.dropboxusercontent.com/s/vb1kxkgqs9c9aqh/hypernova_ico.rss)
 
-#### Figma
-`https://raw.githubusercontent.com/behdaad/hypernova/master/hypernova_ico_v1.0.0.fig`
+[Manual download](https://dl.dropboxusercontent.com/s/k3io58ndlxnhx71/hypernova_ico.sketch)
+
+### Figma
+[Download](https://dl.dropboxusercontent.com/s/fdy5nx1swb7ghim/hypernova_ico.fig)
