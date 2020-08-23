@@ -1,7 +1,11 @@
 # Hypernova
 ## Design System 
 ### Installation
-`sketch://add-library?url=https://github.com/behdaad/hypernova/releases/download/ds-v0.8.5/sketch.rss`
+[Add to Sketch](sketch://add-library?url=https://raw.githubusercontent.com/behdaad/hypernova/master/designsystem.rss)
+
+[test](https://raw.githubusercontent.com/behdaad/hypernova/master/designsystem.rss)
+
+<sketch://add-library?url=https://raw.githubusercontent.com/behdaad/hypernova/master/designsystem.rss>
 
 ## Icon Pack
 ### Installation
